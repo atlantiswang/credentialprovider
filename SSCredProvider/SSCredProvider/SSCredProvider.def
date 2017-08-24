@@ -1,6 +1,0 @@
-LIBRARY	"SSCredProvider"
-
-EXPORTS
-
-DllCanUnloadNow PRIVATE
-DllGetClassObject PRIVATE
